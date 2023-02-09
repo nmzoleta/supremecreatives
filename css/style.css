@@ -440,14 +440,14 @@ button {
 /*Index page */
 
 
-/* K-Content section start */
+/* nmzoleta section start */
 
-.K-Content_section {
+.nmzoleta_section {
     width: 100%;
     float: left;
     padding-bottom: 90px;
 
-.K-Content_taital {
+.nmzoleta_taital {
     width: 100%;
     float: left;
     font-size: 40px;
@@ -455,7 +455,7 @@ button {
     font-weight: bold;
 }
 
-.K-Content_text {
+.nmzoleta_text {
     width: 100%;
     float: left;
     font-size: 16px;
@@ -463,13 +463,13 @@ button {
     margin: 0px;
 }
 
-.K-Content_section_2 {
+.nmzoleta_section_2 {
     width: 100%;
     float: left;
     margin-top: 10px;
 }
 
-.K-Content_img {
+.nmzoleta_img {
     width: 100%;
     float: left;
     text-align: center;
@@ -506,7 +506,7 @@ button {
 }
 
 
-/* K-Content section end */
+/* nmzoleta section end */
 
 
 /* about section start */
